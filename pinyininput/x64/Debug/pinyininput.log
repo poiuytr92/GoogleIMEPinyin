@@ -1,0 +1,189 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  exportApi.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\exportapi.cpp(76): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\exportapi.cpp(78): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\exportapi.cpp(91): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  pinyininput.cpp
+  dictbuilder.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\include\dictbuilder.h(32): warning C4005: “___DO_STATISTICS___”: 宏重定义
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp: note: 参见“___DO_STATISTICS___”的前一个定义
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(325): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(325): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(325): warning C4477: “printf”: 格式字符串“%06d”需要类型“int”的参数，但可变参数 2 拥有了类型“ime_pinyin::LemmaIdType”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(325): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(427): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(499): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(499): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(548): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(604): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(605): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(606): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(607): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(627): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(627): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(628): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(628): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(629): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(629): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(723): warning C4305: “=”: 从“double”到“float”截断
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(819): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(828): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(872): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(941): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1024): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1024): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1029): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1029): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1034): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1034): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1039): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1039): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1044): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1044): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1049): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1049): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1054): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1054): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1059): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1059): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1062): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1062): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1063): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1063): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1065): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1065): note: 请考虑在格式字符串中使用“%zd”
+  dictlist.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(56): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(127): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(145): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(148): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(161): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(162): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(324): warning C4244: “初始化”: 从“__int64”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(333): warning C4244: “初始化”: 从“__int64”转换到“ime_pinyin::uint16”，可能丢失数据
+  dicttrie.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\include\dictbuilder.h(32): warning C4005: “___DO_STATISTICS___”: 宏重定义
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp: note: 参见“___DO_STATISTICS___”的前一个定义
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp(226): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp(237): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp(509): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp(587): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp(930): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+  lpicache.cpp
+  matrixsearch.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(291): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(293): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(359): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(361): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(385): warning C4267: “初始化”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(425): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(596): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(873): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(888): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1017): warning C4267: “初始化”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1110): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1158): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1203): warning C4477: “printf”: 格式字符串“%03d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1203): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1210): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1210): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1253): warning C4267: “初始化”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1359): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1477): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1477): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1492): warning C4244: “参数”: 从“ime_pinyin::uint16”转换到“unsigned char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1496): warning C4244: “参数”: 从“__int64”转换到“ime_pinyin::PoolPosType”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1510): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1510): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1539): warning C4244: “参数”: 从“ime_pinyin::uint16”转换到“unsigned char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1543): warning C4244: “参数”: 从“__int64”转换到“ime_pinyin::PoolPosType”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1597): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1659): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“ime_pinyin::LemmaIdType”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1659): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1694): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1698): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1711): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1715): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1889): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1907): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1914): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1978): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+  mystdlib.cpp
+  ngram.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(114): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(114): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(114): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(114): note: 请考虑在格式字符串中使用“%zd”
+d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(272): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(331): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(331): note: 请考虑在格式字符串中使用“%zd”
+  pinyinime.cpp
+  searchutility.cpp
+  spellingtable.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtable.cpp(47): warning C4244: “参数”: 从“size_t”转换到“double”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtable.cpp(285): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtable.cpp(285): note: 请考虑在格式字符串中使用“%zd”
+  spellingtrie.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(297): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(298): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(506): warning C4244: “=”: 从“ime_pinyin::uint16”转换到“unsigned char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(527): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(540): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(548): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(591): warning C4244: “=”: 从“ime_pinyin::uint16”转换到“unsigned char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(613): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(626): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(633): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint16”，可能丢失数据
+  splparser.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\splparser.cpp(165): warning C4244: “参数”: 从“const ime_pinyin::char16”转换到“char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\splparser.cpp(181): warning C4244: “参数”: 从“ime_pinyin::char16”转换到“char”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\splparser.cpp(225): warning C4244: “参数”: 从“ime_pinyin::char16”转换到“char”，可能丢失数据
+  sync.cpp
+  userdict.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(124): warning C4244: “初始化”: 从“ime_pinyin::uint64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1101): warning C4307: “*”: 整型常量溢出
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1101): warning C4309: “参数”: 截断常量值
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1151): warning C4307: “*”: 整型常量溢出
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1151): warning C4309: “参数”: 截断常量值
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1232): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1366): warning C4267: “参数”: 从“size_t”转换到“long”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1369): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1594): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1627): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1632): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1633): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1636): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1637): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1649): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1654): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1655): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1662): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1663): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1673): warning C4267: “-=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1678): warning C4267: “-=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1685): warning C4267: “-=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1694): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1709): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1800): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1814): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1823): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1831): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1880): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1918): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1929): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(1940): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2212): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2230): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2232): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2234): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2237): warning C4267: “=”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2252): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2253): warning C4267: “参数”: 从“size_t”转换到“ime_pinyin::uint32”，可能丢失数据
+  utf16char.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\utf16char.cpp(90): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\code\cc-keyboard\pinyininput\pinyininput\src\utf16char.cpp(175): warning C4244: “=”: 从“const ime_pinyin::char16”转换到“char”，可能丢失数据
+  utf16reader.cpp
+  正在生成代码...
+    正在创建库 D:\code\cc-keyboard\pinyininput\x64\Debug\IMEPinyin.lib 和对象 D:\code\cc-keyboard\pinyininput\x64\Debug\IMEPinyin.exp
+  pinyininput.vcxproj -> D:\code\cc-keyboard\pinyininput\x64\Debug\IMEPinyin.dll

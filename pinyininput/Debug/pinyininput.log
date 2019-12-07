@@ -1,0 +1,39 @@
+﻿  dictbuilder.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictbuilder.cpp(1071): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  dictlist.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dictlist.cpp(447): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  dicttrie.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\dicttrie.cpp(942): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  lpicache.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\lpicache.cpp(82): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  matrixsearch.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\matrixsearch.cpp(1982): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  mystdlib.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\mystdlib.cpp(35): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  ngram.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\ngram.cpp(343): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  pinyinime.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\pinyinime.cpp(198): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  searchutility.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\searchutility.cpp(211): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  spellingtable.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtable.cpp(314): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  spellingtrie.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\spellingtrie.cpp(833): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  splparser.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\splparser.cpp(342): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  sync.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\sync.cpp(113): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  userdict.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(73): warning C4005: “DEBUG_PERF_BEGIN”: 宏重定义
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(63): note: 参见“DEBUG_PERF_BEGIN”的前一个定义
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(74): warning C4005: “DEBUG_PERF_END”: 宏重定义
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(69): note: 参见“DEBUG_PERF_END”的前一个定义
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(75): warning C4005: “LOGD_PERF”: 宏重定义
+  d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(71): note: 参见“LOGD_PERF”的前一个定义
+d:\code\cc-keyboard\pinyininput\pinyininput\src\userdict.cpp(2295): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  utf16char.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\utf16char.cpp(184): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  utf16reader.cpp
+d:\code\cc-keyboard\pinyininput\pinyininput\src\utf16reader.cpp(132): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...
